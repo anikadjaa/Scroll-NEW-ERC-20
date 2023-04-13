@@ -11,7 +11,8 @@ contract ANIK is ERC20 {
 }
 
 
-Transaction Hash
+Transaction Hash:
 0x9f05d5db932fece7a62c4677e325bf7773eae50d56e688c08cf745c6b36193f3
 
 https://blockscout.scroll.io/tx/0x9f05d5db932fece7a62c4677e325bf7773eae50d56e688c08cf745c6b36193f3
+stamp blockexplorer^11
